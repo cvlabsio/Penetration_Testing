@@ -30,11 +30,6 @@ Imagine a small office with five computers connected to a central switch. This f
 - Components include nodes, links, network devices, and protocols.
 - Networks can be categorized based on size (LAN, WAN, MAN) and topology (bus, star, ring).
 
-In the next lesson, we'll dive deeper into networking protocols and data transmission.
-
-
-===================================================
-
 ### Lesson 2: Networking Protocols and Data Transmission
 
 #### Networking Protocols:
@@ -296,4 +291,391 @@ During a network penetration test, a penetration tester uses Nmap to conduct a T
 - Common network services like HTTP, SSH, FTP, SMTP, DNS, and RDP are associated with specific ports, which can be targeted during penetration testing.
 - Understanding ports and services is essential for identifying potential attack vectors, vulnerabilities, and misconfigurations in network infrastructure.
 
+
+#### Common Network Services and Associated Ports (Continued):
+
+**FTP Data:**
+    - **Port:** 20
+    - **Description:** FTP Data port is used for data transfer in the File Transfer Protocol (FTP) protocol. While port 21 is used for control commands, port 20 is used for the actual transfer of data between the FTP client and server.
+
+**FTP (File Transfer Protocol):**
+    - **Port:** 21
+    - **Description:** FTP is a protocol used for transferring files between a client and a server on a computer network. It provides a simple and straightforward method for uploading, downloading, and managing files on remote servers. FTP operates on port 21 for control and port 20 for data transfer.
+
+**SSH (Secure Shell):**
+    - **Port:** 22
+    - **Description:** SSH is a cryptographic network protocol used for secure remote access to network devices and servers. It provides a secure channel for executing commands, transferring files, and tunneling other network services. SSH operates on port 22 by default and offers strong encryption, authentication, and integrity protection.
+
+**Telnet:**
+    - **Port:** 23
+    - **Description:** Telnet is a network protocol used for remote terminal access to network devices and servers. It allows users to log in to a remote system and interact with it as if they were physically present at the terminal. Telnet operates on port 23 and transmits data in plaintext, making it susceptible to eavesdropping and interception.
+
+**SMTP (Simple Mail Transfer Protocol):**
+   - **Port:** 25
+   - **Description:** SMTP is a communication protocol used for sending email messages between email servers. It is responsible for transferring emails from the sender's email client or server to the recipient's email server. SMTP operates on port 25 by default and relies on other protocols like POP3 and IMAP for email retrieval by end-users.
+
+**DNS (Domain Name System):**
+   - **Port:** 53
+   - **Description:** DNS is a hierarchical and distributed naming system used to translate domain names (e.g., www.example.com) into IP addresses and vice versa. DNS operates on both UDP and TCP protocols, with UDP port 53 commonly used for standard queries and TCP port 53 used for zone transfers and large DNS responses.
+
+**DHCP (Dynamic Host Configuration Protocol):**
+   - **Port:** 67 (server), 68 (client)
+   - **Description:** DHCP is a network protocol used to dynamically assign IP addresses and network configuration parameters to devices on a network. DHCP servers listen for client requests on port 67, while DHCP clients send requests to DHCP servers on port 68. DHCP simplifies network administration by automating IP address allocation and configuration.
+
+**TFTP (Trivial File Transfer Protocol):**
+    - **Port:** 69
+    - **Description:** TFTP is a simplified version of FTP used for transferring files between clients and servers. It is commonly used for network booting, firmware updates, and configuration file transfers in network devices like routers, switches, and IP phones. TFTP operates on port 69 and lacks authentication and security features, making it vulnerable to unauthorized access and data interception.
+
+**HTTP (Hypertext Transfer Protocol):**
+    - **Port:** 80
+    - **Description:** HTTP is the primary protocol used for transmitting web pages and data over the internet. It facilitates communication between web browsers and web servers, allowing users to access and interact with web content. HTTP operates on port 80 by default and supports various methods for data transfer, including GET, POST, and PUT.
+
+**Kerberos:**
+    - **Port:** 88
+    - **Description:** Kerberos is a network authentication protocol used for securely authenticating users and services in a distributed environment. It provides mutual authentication, encrypted communication, and single sign-on capabilities, making it suitable for enterprise authentication systems. Kerberos operates on port 88 and relies on a trusted third-party Key Distribution Center (KDC) for ticket-based authentication.
+
+**POP3 (Post Office Protocol version 3):**
+    - **Port:** 110
+    - **Description:** POP3 is a protocol used by email clients to retrieve emails from a mail server. It allows users to download emails from the server to their local devices and typically operates on port 110. POP3 is a simple and widely supported protocol but lacks advanced features like email synchronization across multiple devices, which are offered by IMAP.
+
+
+**IMAP (Internet Message Access Protocol):**
+    - **Port:** 143 (IMAP), 993 (IMAPS)
+    - **Description:** IMAP is a protocol used by email clients to retrieve emails from a mail server. Unlike POP3, IMAP allows users to access emails stored on the server, manage folders, and synchronize email across multiple devices. IMAP typically operates on port 143 for plaintext communication and port 993 for encrypted communication (IMAPS).
+
+**HTTPS (Hypertext Transfer Protocol Secure):**
+    - **Port:** 443
+    - **Description:** HTTPS is the secure version of HTTP, used for secure communication over the internet. It encrypts data transmitted between a web browser and a web server, providing confidentiality and integrity. HTTPS operates on port 443 by default and is commonly used for secure web browsing, online transactions, and data exchange.
+
+**SNMP (Simple Network Management Protocol):**
+    - **Port:** 161 (SNMP), 162 (SNMP traps)
+    - **Description:** SNMP is a protocol used for network management and monitoring of network devices, such as routers, switches, and servers. It allows network administrators to collect and manage device information, monitor performance, and configure devices remotely. SNMP operates on port 161 for SNMP queries and port 162 for SNMP traps (asynchronous notifications).
+
+**LDAP (Lightweight Directory Access Protocol):**
+    - **Port:** 389 (LDAP), 636 (LDAPS)
+    - **Description:** LDAP is a protocol used for accessing and managing directory services, such as Active Directory, OpenLDAP, and Novell eDirectory. It provides a standardized way to query and update directory information, including user accounts, groups, and organizational units. LDAP operates on port 389 for plaintext communication and port 636 for encrypted communication (LDAPS).
+
+**UDP Port 514**: This port is used for the Syslog protocol, which is used for sending log messages and event notifications between network devices, servers, and applications.
+
+**SMTP (Simple Mail Transfer Protocol):**
+    - **Port:** 587
+    - **Description:** SMTP is a communication protocol used for sending email messages between email clients and servers. Port 587 is the submission port used for email submission by mail clients to mail servers. It is commonly used for email submission by email clients that require authentication before sending emails.
+
+**POP3S (POP3 over SSL/TLS):**
+    - **Port:** 995
+    - **Description:** POP3S is a secure version of POP3 that uses SSL/TLS encryption to protect communication between email clients and mail servers. It provides confidentiality and integrity for email messages retrieved from the server. POP3S operates on port 995 and is commonly used for secure email retrieval by email clients.
+
+**PostgreSQL:**
+    - **Port:** 5432
+    - **Description:** PostgreSQL is an open-source relational database management system (RDBMS) known for its robustness, extensibility, and standards compliance. It is commonly used in web applications, enterprise systems, and data analytics platforms. PostgreSQL operates on port 5432 by default and supports features such as advanced SQL queries, transactions, and data integrity constraints.
+
+**Oracle Database:**
+    - **Port:** 1521
+    - **Description:** Oracle Database is a relational database management system (RDBMS) developed by Oracle Corporation. It is widely used in enterprise environments for mission-critical applications, data warehousing, and business intelligence. Oracle Database operates on port 1521 by default and supports features such as high availability, scalability, and advanced security.
+
+**SQL Server:**
+    - **Port:** 1433
+    - **Description:** SQL Server is a relational database management system (RDBMS) developed by Microsoft. It is commonly used in enterprise environments for data storage, business intelligence, and application development. SQL Server operates on port 1433 by default and supports features such as transaction processing, data replication, and security.
+
+**RDP (Remote Desktop Protocol):**
+   - **Port:** 3389
+   - **Description:** RDP is a proprietary protocol developed by Microsoft for remote access to Windows-based systems. It allows users to connect to and control a remote desktop or server over a network connection. RDP provides graphical user interface (GUI) access and supports features such as file transfer, printer redirection, and remote audio playback.
+
+**SMTPS (SMTP over SSL/TLS):**
+    - **Port:** 465
+    - **Description:** SMTPS is a secure version of SMTP that uses SSL/TLS encryption to protect communication between email clients and mail servers. It provides confidentiality and integrity for email messages transmitted over the network. SMTPS operates on port 465 and is commonly used for secure email submission by mail clients.
+
+**FTPS (FTP over SSL/TLS):**
+    - **Port:** 990
+    - **Description:** FTPS is a secure version of FTP that uses SSL/TLS encryption to protect communication between FTP clients and servers. It provides confidentiality and integrity for file transfers over the network. FTPS operates on port 990 for control and port 989 for data transfer (implicit FTPS) or port 21 for control and port 20 for data transfer (explicit FTPS).
+
+**SSH (Secure Shell):**
+    - **Port:** 2222
+    - **Description:** SSH operates on port 22 by default, but in some cases, it may be configured to listen on alternative ports such as 2222 for enhanced security or to avoid conflicts with other services. SSH provides secure remote access and command execution on network devices and servers.
+
+**HTTP Proxy (Alternative):**
+    - **Port:** 8080
+    - **Description:** Port 8080 is often used as an alternative HTTP port for proxy servers or web servers that need to handle higher volumes of traffic. It's commonly used for web proxy servers or for running web servers on non-standard ports.
+
+**HTTP Alternative (Alternative):**
+    - **Port:** 8088
+    - **Description:** Similar to port 8080, port 8088 is also used as an alternative HTTP port, particularly for proxy servers or web servers that require a different port for specific applications or configurations.
+
+**FTP Control (Alternative):**
+    - **Port:** 2121
+    - **Description:** Port 2121 is sometimes used as an alternative FTP control port, especially in cases where the default port 21 is already in use or blocked by firewall rules. It allows FTP servers to listen for control connections on a different port.
+
+**TCP Port 3000**: This port is commonly used for web development frameworks and servers. For example, the default port for running a Node.js application with Express.js is often port 3000.
+
+**TCP Port 3030**: This port is often used for web development and testing purposes. Some web servers and development environments use port 3030 as an alternate HTTP port.
+
+**UDP Port 3074**: This port is commonly used by some multiplayer online gaming systems, such as Xbox Live and PlayStation Network, for communication between gaming consoles and gaming servers.
+
+**MySQL:**
+    - **Port:** 3306
+    - **Description:** MySQL is an open-source relational database management system (RDBMS) used for storing, retrieving, and managing structured data. It is commonly used in web applications, content management systems (CMS), and other data-driven applications. MySQL operates on port 3306 by default and supports features such as transactions, indexing, and replication for high availability.
+  
+**TCP Port 3478**: This port is used by the STUN (Session Traversal Utilities for NAT) protocol, which is used for NAT traversal in VoIP and real-time communication applications.
+
+**TCP Port 3690**: This port is used by the Subversion (SVN) version control system for network communications. SVN allows users to manage and track changes to files and directories over time.
+
+**TCP Port 4000**: This port is often used for various applications and services. While it's not associated with a specific protocol, it may be used for custom applications, communication between clients and servers, or other purposes.
+
+**TCP Port 4200**: This port is sometimes used by development servers and tools, such as the Angular development server, for serving web applications during development and testing.
+
+**UDP Port 4321**: This port is commonly used for remote monitoring and management protocols, such as SNMP (Simple Network Management Protocol), for network devices and servers.   
+
+**HTTP (Alternative):**
+    - **Port:** 8888
+    - **Description:** Port 8888 is another alternative HTTP port commonly used for proxy servers, web servers, or web applications that require a different port for specific purposes. It provides flexibility in configuring web services on non-standard ports.
+
+**RFB (Remote Framebuffer Protocol):**
+    - **Port:** 5900
+    - **Description:** RFB is a protocol used for remote desktop sharing and control. It allows users to view and interact with the desktop of a remote computer over a network connection. Port 5900 is the default port for VNC (Virtual Network Computing) servers using the RFB protocol.
+
+**HTTP (Alternative):**
+    - **Port:** 8880
+    - **Description:** Similar to ports 8080 and 8088, port 8880 is used as an alternative HTTP port for web servers or proxy servers that need to handle web traffic on non-standard ports. It provides flexibility in configuring web services to avoid conflicts or for specific applications.
+
+**HTTP (Alternative):**
+    - **Port:** 8843
+    - **Description:** Port 8843 is another alternative HTTP port commonly used for secure web services or HTTPS traffic that requires a non-standard port. It provides flexibility in configuring secure web applications or proxy servers on non-standard ports.
+
+**HTTP (Alternative):**
+    - **Port:** 8085
+    - **Description:** Port 8085 is yet another alternative HTTP port used for web servers or proxy servers that need to handle web traffic on a different port. It's commonly used in scenarios where ports like 8080 or 8888 are already in use.
+
+**HTTP (Alternative):**
+    - **Port:** 8090
+    - **Description:** Port 8090 serves as an alternative HTTP port for web servers, proxy servers, or web applications that need to operate on a non-standard port. It provides flexibility in configuring web services to avoid conflicts or for specific purposes.
+
+**HTTP (Alternative):**
+    - **Port:** 8181
+    - **Description:** Port 8181 is another alternative HTTP port commonly used for web servers or proxy servers that require a different port for specific applications or configurations. It allows flexibility in configuring web services on non-standard ports.
+
+**HTTP (Alternative):**
+    - **Port:** 8282
+    - **Description:** Similar to other alternative HTTP ports, port 8282 is used for web servers, proxy servers, or web applications that need to operate on a non-standard port. It provides flexibility in configuring web services to avoid conflicts or for specific purposes.
+
+**HTTP (Alternative):**
+    - **Port:** 8383
+    - **Description:** Port 8383 serves as an alternative HTTP port for web servers, proxy servers, or web applications that need to operate on a different port. It's commonly used in scenarios where standard HTTP ports are already in use or blocked by firewall rules.
+
+**HTTP (Alternative):**
+    - **Port:** 8484
+    - **Description:** Port 8484 is another alternative HTTP port commonly used for web servers or proxy servers that require a different port for specific applications or configurations. It allows flexibility in configuring web services on non-standard ports.
+
+**HTTP (Alternative):**
+    - **Port:** 8585
+    - **Description:** Port 8585 serves as an alternative HTTP port for web servers, proxy servers, or web applications that need to operate on a different port. It provides flexibility in configuring web services to avoid conflicts or for specific purposes.
+
+**HTTP (Alternative):**
+    - **Port:** 8686
+    - **Description:** Port 8686 is yet another alternative HTTP port used for web servers or proxy servers that require a different port for specific applications or configurations. It allows flexibility in configuring web services on non-standard ports.
+
+**HTTP (Alternative):**
+    - **Port:** 8787
+    - **Description:** Similar to other alternative HTTP ports, port 8787 is used for web servers, proxy servers, or web applications that need to operate on a non-standard port. It provides flexibility in configuring web services to avoid conflicts or for specific purposes.
+
+**HTTP (Alternative):**
+    - **Port:** 8881
+    - **Description:** Port 8881 serves as an alternative HTTP port for web servers, proxy servers, or web applications that need to operate on a different port. It's commonly used in scenarios where standard HTTP ports are already in use or blocked by firewall rules.
+
+**HTTP (Alternative):**
+    - **Port:** 8989
+    - **Description:** Port 8989 is another alternative HTTP port commonly used for web servers or proxy servers that require a different port for specific applications or configurations. It allows flexibility in configuring web services on non-standard ports.
+
+**HTTP (Alternative):**
+    - **Port:** 9090
+    - **Description:** Port 9090 serves as an alternative HTTP port for web servers, proxy servers, or web applications that need to operate on a different port. It provides flexibility in configuring web services to avoid conflicts or for specific purposes.
+
+**HTTP (Alternative):**
+    - **Port:** 9191
+    - **Description:** Port 9191 is yet another alternative HTTP port used for web servers or proxy servers that require a different port for specific applications or configurations. It allows flexibility in configuring web services on non-standard ports.
+
+**HTTP (Alternative):**
+    - **Port:** 9292
+    - **Description:** Port 9292 serves as an alternative HTTP port for web servers, proxy servers, or web applications that need to operate on a different port. It's commonly used in scenarios where standard HTTP ports are already in use or blocked by firewall rules.
+
+**HTTP (Alternative):**
+    - **Port:** 9393
+    - **Description:** Port 9393 is another alternative HTTP port commonly used for web servers or proxy servers that require a different port for specific applications or configurations. It allows flexibility in configuring web services on non-standard ports.
+
+**HTTP (Alternative):**
+    - **Port:** 9494
+    - **Description:** Port 9494 serves as an alternative HTTP port for
+
+ 	web servers, proxy servers, or web applications that need to operate on a different port. It provides flexibility in configuring web services to avoid 				conflicts or for specific purposes.
+
+**HTTP (Alternative):**
+    - **Port:** 9595
+    - **Description:** Port 9595 is yet another alternative HTTP port used for web servers or proxy servers that require a different port for specific applications or configurations. It allows flexibility in configuring web services on non-standard ports.
+
+**HTTP (Alternative):**
+    - **Port:** 9696
+    - **Description:** Port 9696 serves as an alternative HTTP port for web servers, proxy servers, or web applications that need to operate on a different port. It's commonly used in scenarios where standard HTTP ports are already in use or blocked by firewall rules.
+
+**HTTP (Alternative):**
+    - **Port:** 9797
+    - **Description:** Port 9797 is another alternative HTTP port commonly used for web servers or proxy servers that require a different port for specific applications or configurations. It allows flexibility in configuring web services on non-standard ports.
+
+**HTTP (Alternative):**
+    - **Port:** 9898
+    - **Description:** Port 9898 serves as an alternative HTTP port for web servers, proxy servers, or web applications that need to operate on a different port. It provides flexibility in configuring web services to avoid conflicts or for specific purposes.
+
+**HTTP (Alternative):**
+    - **Port:** 9999
+    - **Description:** Port 9999 is yet another alternative HTTP port used for web servers or proxy servers that require a different port for specific applications or configurations. It allows flexibility in configuring web services on non-standard ports.
+
+**HTTP (Alternative):**
+    - **Port:** 10000
+    - **Description:** Port 10000 serves as an alternative HTTP port for web servers, proxy servers, or web applications that need to operate on a different port. It's commonly used in scenarios where standard HTTP ports are already in use or blocked by firewall rules.
+
+**HTTP (Alternative):**
+    - **Port:** 10001
+    - **Description:** Port 10001 is another alternative HTTP port commonly used for web servers or proxy servers that require a different port for specific applications or configurations. It allows flexibility in configuring web services on non-standard ports.
+
+**HTTP (Alternative):**
+    - **Port:** 10080
+    - **Description:** Port 10080 serves as an alternative HTTP port for web servers, proxy servers, or web applications that need to operate on a different port. It provides flexibility in configuring web services to avoid conflicts or for specific purposes.
+
+**HTTP (Alternative):**
+    - **Port:** 10088
+    - **Description:** Port 10088 is yet another alternative HTTP port used for web servers or proxy servers that require a different port for specific applications or configurations. It allows flexibility in configuring web services on non-standard ports.
+
+**HTTP (Alternative):**
+    - **Port:** 10100
+    - **Description:** Port 10100 serves as an alternative HTTP port for web servers, proxy servers, or web applications that need to operate on a different port. It's commonly used in scenarios where standard HTTP ports are already in use or blocked by firewall rules.
+
+**HTTP (Alternative):**
+    - **Port:** 10200
+    - **Description:** Port 10200 is another alternative HTTP port commonly used for web servers or proxy servers that require a different port for specific applications or configurations. It allows flexibility in configuring web services on non-standard ports.
+
+**HTTP (Alternative):**
+    - **Port:** 10500
+    - **Description:** Port 10500 serves as an alternative HTTP port for web servers, proxy servers, or web applications that need to operate on a different port. It provides flexibility in configuring web services to avoid conflicts or for specific purposes.
+
+**HTTP (Alternative):**
+    - **Port:** 10600
+    - **Description:** Port 10600 is yet another alternative HTTP port used for web servers or proxy servers that require a different port for specific applications or configurations. It allows flexibility in configuring web services on non-standard ports.
+
+**HTTP (Alternative):**
+    - **Port:** 10700
+    - **Description:** Port 10700 serves as an alternative HTTP port for web servers, proxy servers, or web applications that need to operate on a different port. It's commonly used in scenarios where standard HTTP ports are already in use or blocked by firewall rules.
+
+**HTTP (Alternative):**
+    - **Port:** 10800
+    - **Description:** Port 10800 is another alternative HTTP port commonly used for web servers or proxy servers that require a different port for specific applications or configurations. It allows flexibility in configuring web services on non-standard ports.
+
+**HTTP (Alternative):**
+    - **Port:** 10900
+    - **Description:** Port 10900 serves as an alternative HTTP port for web servers, proxy servers, or web applications that need to operate on a different port. It provides flexibility in configuring web services to avoid conflicts or for specific purposes.
+
+**HTTP (Alternative):**
+    - **Port:** 11000
+    - **Description:** Port 11000 is yet another alternative HTTP port used for web servers or proxy servers that require a different port for specific applications or configurations. It allows flexibility in configuring web services on non-standard ports.
+
+**HTTP (Alternative):**
+    - **Port:** 11100
+    - **Description:** Port 11100 serves as an alternative HTTP port for web servers, proxy servers, or web applications that need to operate on a different port. It's commonly used in scenarios where standard HTTP ports are already in use or blocked by firewall rules.
+
+**HTTP (Alternative):**
+    - **Port:** 11200
+    - **Description:** Port 11200 is another alternative HTTP port commonly used for web servers or proxy servers that require a different port for specific applications or configurations. It allows flexibility in configuring web services on non-standard ports.
+
+**HTTP (Alternative):**
+    - **Port:** 11300
+    - **Description:** Port 11300 serves as an alternative HTTP port for web servers, proxy servers, or web applications that need to operate on a different port. It provides flexibility in configuring web services to avoid conflicts or for specific purposes.
+
+**TCP Port 1723**: This port is used for PPTP (Point-to-Point Tunneling Protocol) VPN connections. PPTP is a protocol used to implement virtual private networks.
+
+**TCP Port 1863**: This port is used by the MSNP (Microsoft Notification Protocol) service, which is part of the Windows Live Messenger instant messaging application.
+
+**UDP Port 1900**: This port is associated with the SSDP (Simple Service Discovery Protocol), which is used by devices such as printers and network-attached storage (NAS) devices to advertise their services on a local network.
+
+**TCP Port 1935**: This port is commonly used for RTMP (Real-Time Messaging Protocol) streaming. It's often used for streaming multimedia content over the internet, such as video and audio.
+
+**TCP Port 2000**: This port is often used for various applications and services. It's not associated with a specific protocol but may be used for custom applications or services.
+
+**TCP Port 2049**: This port is commonly associated with the Network File System (NFS), which is a distributed file system protocol. NFS allows clients to access files over a network as if they were on a local disk.
+
+**TCP Port 2181**: This port is often used by Apache ZooKeeper, which is a centralized service for maintaining configuration information, naming, providing distributed synchronization, and providing group services.
+
+**TCP Port 2375**: This port is used by the Docker daemon for managing Docker containers. It allows clients to communicate with the Docker daemon over a network.
+
+**UDP Port 2427**: This port is used by the MGCP (Media Gateway Control Protocol), which is a signaling and control protocol used in Voice over IP (VoIP) networks to control media gateways.
+
+**TCP Port 27017**: This port is the default port for MongoDB, a popular NoSQL database. MongoDB uses this port for client connections and communication between nodes in a MongoDB cluster.
+
+**TCP Port 3000**: This port is commonly used by web development frameworks and servers. For example, the default port for running a Node.js application with Express.js is often port 3000.
+
+**UDP Port 3074**: This port is used by some multiplayer online gaming systems, such as Xbox Live and PlayStation Network, for communication between gaming consoles and gaming servers.
+
+**TCP Port 3690**: This port is used by the Subversion (SVN) version control system for network communications. SVN allows users to manage and track changes to files and directories over time.
+
+**UDP Port 4500**: This port is commonly used for IPsec NAT traversal (NAT-T). IPsec VPNs use this port to establish secure VPN tunnels through NAT devices, allowing secure communication between remote devices and VPN gateways.
+
+**TCP Port 5000**: This port is commonly used for network file-sharing services, such as the Universal Plug and Play (UPnP) protocol and the Digital Audio Access Protocol (DAAP) used by iTunes for sharing music libraries.
+
+**TCP Port 5984**: This port is used by CouchDB, a popular NoSQL database system. CouchDB uses this port for HTTP-based API communication, allowing clients to interact with CouchDB databases.
+
+**UDP Port 6000**: This port is used by the X Window System, a windowing system for Unix-like operating systems. It allows clients to display graphical user interfaces (GUIs) running on remote Unix systems.
+
+**TCP Port 6379**: This port is commonly used by Redis, an in-memory data store often used as a database, cache, or message broker. Redis uses this port for client-server communication, allowing clients to interact with Redis databases.
+
+**TCP Port 8000**: This port is often used as a default port for web servers and web application frameworks during development and testing. It's commonly used for local development environments.
+
+**TCP Port 11211**: This port is commonly associated with memcached, a distributed memory caching system often used to speed up dynamic database-driven websites by caching data and objects in RAM.
+
+**TCP Port 12345**: While not tied to any specific protocol or service, port 12345 is sometimes used by various malware and remote access tools for communication and control.
+
+**TCP Port 13500**: This port is used by the Service Location Protocol (SLP), which is an Internet Engineering Task Force (IETF) standard protocol used to discover services in an IP network.
+
+**TCP Port 14354**: This port is used by the IBM Rational ClearCase remote client-server communication.
+
+**TCP Port 16080**: This port is often used for web proxy services or as an alternate HTTP port.
+
+**TCP Port 16992**: This port is used by the Intel Remote Management Module (RMM) for remote management of servers and systems.
+
+**UDP Port 17771**: This port is used by Kerberos authentication services.
+
+**UDP Port 19000**: This port is associated with the Multi Router Traffic Grapher (MRTG) monitoring tool, which is used to monitor and graph network traffic and other network statistics.
+
+**TCP Port 19872**: This port is used by the FMS (FileMaker Server) administrative console for managing FileMaker database servers.
+
+**TCP Port 20000**: This port is often used for various applications and services. While it's not associated with a specific protocol, it may be used for custom applications, communication between clients and servers, or other purposes.
+
+**TCP Port 20547**: This port is used by the Symantec Norton AntiVirus remote management service for communication between client computers and the Norton AntiVirus server.
+
+**UDP Port 21523**: This port is often used by various online gaming platforms and multiplayer games for communication between game clients and servers.
+
+**TCP Port 22222**: While not tied to any specific protocol or service, port 22222 is sometimes used for remote access and administration, as well as for custom applications.
+
+**TCP Port 23456**: Similar to port 22222, port 23456 is sometimes used for remote access and administration, as well as for custom applications.
+
+**UDP Port 24224**: This port is commonly associated with the Fluentd log collector, which is used for unified logging layer across multiple servers.
+
+**TCP Port 25565**: This port is used by the Minecraft multiplayer gaming platform for communication between Minecraft clients and servers.
+
+**UDP Port 27015**: This port is commonly used by various online gaming platforms and multiplayer games, such as Counter-Strike, for communication between game clients and servers.
+
+**TCP Port 28015**: This port is used by the Rust game server for communication between Rust clients and servers.
+
+**TCP Port 29999**: This port is often used for remote administration and monitoring of network devices, servers, and applications, as well as for custom services.
+
+**TCP Port 50000**: This port is often used for various applications and services. While it's not associated with a specific protocol, it may be used for custom applications, communication between clients and servers, or other purposes.
+
+**UDP Port 5060**: This port is commonly used for the Session Initiation Protocol (SIP), which is used for initiating, maintaining, and terminating real-time sessions, such as voice and video calls over IP networks.
+
+**UDP Port 5500**: This port is often associated with the VNC (Virtual Network Computing) remote desktop protocol. It's sometimes used as an alternate port for VNC connections.
+
+**TCP Port 5632**: This port is used by the PCAnywhere remote access software for remote administration and control of computers over a network.
+
+**UDP Port 5678**: This port is sometimes used for custom applications, communication between clients and servers, or other purposes.
+
+**TCP Port 5800**: This port is commonly used as the HTTP port for accessing VNC servers via a web browser using HTML-based VNC clients.
+
+**UDP Port 6000**: This port is sometimes used for X Window System communication. The X Window System is a windowing system for bitmap displays, common on Unix-like operating systems.
+
+**UDP Port 60000**: This port is often used for various applications and services. While it's not associated with a specific protocol, it may be used for custom applications, communication between clients and servers, or other purposes.
 
