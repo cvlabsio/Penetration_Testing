@@ -5,7 +5,7 @@ Welcome to the Penetration Testing Full Course repository! Here, you'll find com
 ## Course Overview
 Here's the list with only the main division "Penetration Testing" mentioned:
 
-- [Network Penetration Testing:](https://github.com/saidehossain/Penetration_Testing/blob/main/Lessons/Network%20Penetration%20Testing.md) Learn to assess network infrastructure security and exploit vulnerabilities.
+- Network Penetration Testing: Learn to assess network infrastructure security and exploit vulnerabilities.
 - Web Application Penetration Testing: Explore techniques to evaluate and secure web applications.
 - Mobile Application Penetration Testing: Understand mobile app security on iOS and Android platforms.
 - Wireless Network Penetration Testing: Delve into Wi-Fi and Bluetooth security assessments.
