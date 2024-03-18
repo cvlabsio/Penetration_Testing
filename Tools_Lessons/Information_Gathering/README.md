@@ -72,28 +72,18 @@
   - https://search.censys.io/
   - https://www.greynoise.io/
   - https://securitytrails.com/
-  - threatcrowd
-  - github
-  - hunter
-  - fofa
-  - onyphe
-  - pulsedive
-  - ThreatCrowd
-  - Qualys
-  - CNVD (China National Vulnerability Database)
-  - Huorong Security
-  - Anquanke
-  - CIRCL LEMon
-  - NSHC (National Security Computing Center)
-  - CSP (Cyber Security Platform)
-  - ZETA (Zero-day Exploit Tracking and Analysis)
-  - MSRC (Microsoft Security Response Center)
-  - CERT-In (Indian Computer Emergency Response Team)
-  - Quick Heal
-  - DarkSearch.io
-  - Grep.app
-  - Searchcode
-  - Babel X
+  - http://ci-www.threatcrowd.org/
+  - https://github.com/
+  - https://hunter.io/
+  - https://en.fofa.info/
+  - https://www.onyphe.io/
+  - https://pulsedive.com/
+  - https://www.cnvd.org.cn/
+  - https://www.huorong.cn/
+  - https://www.anquanke.com/
+  - https://www.darksearch.ai/
+  - https://grep.app/
+  - https://searchcode.com/
   - https://searx.be/?q=
   - http://www.exalead.com/search/web/
   - https://swisscows.com/en
