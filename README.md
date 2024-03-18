@@ -55,7 +55,7 @@ Here's the list with only the main division "Penetration Testing" mentioned:
 - [Open Source Intelligence (OSINT) Penetration Testing]()
 - [Offensive security/Ethical hacking]()
 - [System security]()
-- [Reverse engineering]()
+- [Reverse engineering](https://github.com/saidehossain/Penetration_Testing/tree/main/Tools_Lessons/Reverse_Engineering)
 - [Tool development]()
 - [Malware analysis]()
 - [Defensive security]()
