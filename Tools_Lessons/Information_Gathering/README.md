@@ -8,13 +8,13 @@
   - dnswalk
   - fierce
   - urlcrazy
-- IDS/IPS Identification Tools
+- **IDS/IPS Identification Tools**
   - firewalk
   - fragrouter
   - ftest
   - lbd
   - wafw00f
-- Live Host Identification Tools
+- **Live Host Identification Tools**
   - arping
   - fping
   - hping3
@@ -23,5 +23,5 @@
   - netcat
   - thcping6
   - unicornscan 
-- Network & Port Scanner
+- **Network & Port Scanner**
   - nmap
