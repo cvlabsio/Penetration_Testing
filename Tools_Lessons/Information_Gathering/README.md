@@ -14,3 +14,12 @@
   - ftest
   - lbd
   - wafw00f
+- Live Host Identification Tools
+  - arping
+  - fping
+  - hping3
+  - masscan
+  - ncat
+  - netcat
+  - thcping6
+  - unicornscan 
