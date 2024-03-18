@@ -66,9 +66,9 @@
 
 
 - **Information Collecting Sites**
-  - [shodan](https://www.shodan.io/)
-  - https://leakix.net
-  - zoomeye.org
+  - https://www.shodan.io/
+  - https://leakix.net/
+  - https://www.zoomeye.org/
   - censys
   - virustotal
   - greynoise
