@@ -24,43 +24,43 @@ Welcome to the Penetration Testing Full Course repository! Here, you'll find com
 ## Specialization Fields
 Here's the list with only the main division "Penetration Testing" mentioned:
 
-- Network Penetration Testing
-- Web Application Penetration Testing
-- Mobile Application Penetration Testing
-- Wireless Network Penetration Testing
-- Social Engineering Penetration Testing
-- Cloud Penetration Testing
-- IoT Penetration Testing
-- Industrial Control Systems (ICS) Penetration Testing
-- Database Penetration Testing
-- VoIP (Voice over Internet Protocol) Penetration Testing
-- Cryptographic Penetration Testing
-- Container Penetration Testing
-- Blockchain Penetration Testing
-- Firmware Reverse Engineering
-- Social Media Penetration Testing
-- Supply Chain Penetration Testing
-- Incident Response Testing
-- SCADA (Supervisory Control and Data Acquisition) Systems Penetration Testing
-- Satellite Communication Penetration Testing
-- Automotive Penetration Testing
-- Aviation and Aerospace Penetration Testing
-- Medical Device Penetration Testing
-- Virtual Reality (VR) and Augmented Reality (AR) Penetration Testing
-- Artificial Intelligence (AI) and Machine Learning (ML) Penetration Testing
-- Blockchain-Based Smart Contracts Auditing
-- Embedded Systems Penetration Testing
-- Smart Grid Penetration Testing
-- API Security Testing
-- Open Source Intelligence (OSINT) Penetration Testing
-- Offensive security/Ethical hacking
-- System security
-- Reverse engineering
-- Tool development
-- Malware analysis
-- Defensive security
-- Software security
-- Digital forensics
+- [Network Penetration Testing]()
+- [Web Application Penetration Testing]()
+- [Mobile Application Penetration Testing]()
+- [Wireless Network Penetration Testing]()
+- [Social Engineering Penetration Testing]()
+- [Cloud Penetration Testing]()
+- [IoT Penetration Testing]()
+- [Industrial Control Systems (ICS) Penetration Testing]()
+- [Database Penetration Testing]()
+- [VoIP (Voice over Internet Protocol) Penetration Testing]()
+- [Cryptographic Penetration Testing]()
+- [Container Penetration Testing]()
+- [Blockchain Penetration Testing]()
+- [Firmware Reverse Engineering]()
+- [Social Media Penetration Testing]()
+- [Supply Chain Penetration Testing]()
+- [Incident Response Testing]()
+- [SCADA (Supervisory Control and Data Acquisition) Systems Penetration Testing]()
+- [Satellite Communication Penetration Testing]()
+- [Automotive Penetration Testing]()
+- [Aviation and Aerospace Penetration Testing]()
+- [Medical Device Penetration Testing]()
+- [Virtual Reality (VR) and Augmented Reality (AR) Penetration Testing]()
+- [Artificial Intelligence (AI) and Machine Learning (ML) Penetration Testing]()
+- [Blockchain-Based Smart Contracts Auditing]()
+- [Embedded Systems Penetration Testing]()
+- [Smart Grid Penetration Testing]()
+- [API Security Testing]()
+- [Open Source Intelligence (OSINT) Penetration Testing]()
+- [Offensive security/Ethical hacking]()
+- [System security]()
+- [Reverse engineering]()
+- [Tool development]()
+- [Malware analysis]()
+- [Defensive security]()
+- [Software security]()
+- [Digital forensics]()
 
 
 ## Let's Secure the Digital World Together!
