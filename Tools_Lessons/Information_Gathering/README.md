@@ -43,3 +43,6 @@
   - enum4linux
   - nbtscan
   - smbmap
+- **SMTP Analysis**
+  - smtp-user-enum
+  - swaks
