@@ -53,6 +53,15 @@ Here's the list with only the main division "Penetration Testing" mentioned:
 - Smart Grid Penetration Testing
 - API Security Testing
 - Open Source Intelligence (OSINT) Penetration Testing
+- Offensive security/Ethical hacking
+- System security
+- Reverse engineering
+- Tool development
+- Malware analysis
+- Defensive security
+- Software security
+- Digital forensics
+
 
 ## Let's Secure the Digital World Together!
 
