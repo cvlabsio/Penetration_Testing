@@ -25,3 +25,10 @@
   - unicornscan 
 - **Network & Port Scanner**
   - nmap
+- **OSINT**
+  - maltego
+  - metagoofil
+  - spiderfoot
+  - theHarvester
+  - twofi
+  - urlcrazy
