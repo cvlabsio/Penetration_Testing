@@ -24,14 +24,14 @@
   - [thcping6](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/Live_Host_Identification/thcping6.md)
   - [unicornscan](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/Live_Host_Identification/unicornscan.md) 
 - **Network & Port Scanner**
-  - [nmap]()
+  - [nmap](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/Network%26Port_Scanner/nmap.md)
 - **OSINT**
-  - [maltego]()
-  - [metagoofil]()
-  - [spiderfoot]()
-  - [theHarvester]()
-  - [twofi]()
-  - [urlcrazy]()
+  - [maltego](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/OSINT/maltego.md)
+  - [metagoofil](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/OSINT/metagoofil.md)
+  - [spiderfoot](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/OSINT/spiderfoot.md)
+  - [theHarvester](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/OSINT/theHarvester.md)
+  - [twofi](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/OSINT/twofi.md)
+  - [urlcrazy](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/OSINT/urlcrazy.md)
 - **Route Analysis**l
   - [0trace]()
   - [intrace]()
