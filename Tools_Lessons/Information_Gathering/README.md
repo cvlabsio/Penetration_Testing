@@ -1,13 +1,13 @@
 ## Information Gathering Tools are-
 
 - **DNS Analysis Tools**
-  - [dnsenum]()
-  - [dnsmap]()
-  - [dnsrecon]()
-  - [dnstracer]()
-  - [dnswalk]()
-  - [fierce]()
-  - [urlcrazy]()
+  - [dnsenum](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/DNS_Analysis/dnsenum.md)
+  - [dnsmap](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/DNS_Analysis/dnsmap.md)
+  - [dnsrecon](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/DNS_Analysis/dnsrecon.md)
+  - [dnstracer](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/DNS_Analysis/dnstracer.md)
+  - [dnswalk](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/DNS_Analysis/dnswalk.md)
+  - [fierce](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/DNS_Analysis/fierce.md)
+  - [urlcrazy](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/DNS_Analysis/urlcrazy.md)
 - **IDS/IPS Identification Tools**
   - [firewalk]()
   - [fragrouter]()
