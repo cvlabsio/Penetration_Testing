@@ -2,7 +2,7 @@
 
 Welcome to the Penetration Testing Full Course repository! Here, you'll find comprehensive materials covering a wide range of penetration testing topics. From understanding the fundamentals to mastering advanced techniques, this course aims to equip you with the knowledge and skills needed to become a proficient penetration tester.
 
-## Course Overview
+## Specialization Fields
 Here's the list with only the main division "Penetration Testing" mentioned:
 
 - Network Penetration Testing
