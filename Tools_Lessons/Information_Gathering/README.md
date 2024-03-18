@@ -33,12 +33,12 @@
   - [twofi](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/OSINT/twofi.md)
   - [urlcrazy](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/OSINT/urlcrazy.md)
 - **Route Analysis**l
-  - [0trace]()
-  - [intrace]()
-  - [irpas-ass]()
-  - [irpas-cdp]()
-  - [netdiscover]()
-  - [netmask]()
+  - [0trace](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/Route_Analysis/0trace.md)
+  - [intrace](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/Route_Analysis/intrace.md)
+  - [irpas-ass](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/Route_Analysis/irpas-ass.md)
+  - [irpas-cdp](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/Route_Analysis/irpas-cdp.md)
+  - [netdiscover](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/Route_Analysis/netdiscover.md)
+  - [netmask](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/Route_Analysis/netmask.md)
 - **SMB Analysis**
   - [enum4linux]()
   - [nbtscan]()
