@@ -56,3 +56,10 @@
   - sslscan
   - sslyze
   - tlssled
+- **Other Tools**
+  - amass
+  - dimitry
+  - ike-scan
+  - legion
+  - p0f
+  - recon-ng
