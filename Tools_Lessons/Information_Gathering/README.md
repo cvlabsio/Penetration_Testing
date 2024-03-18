@@ -9,11 +9,11 @@
   - [fierce](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/DNS_Analysis/fierce.md)
   - [urlcrazy](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/DNS_Analysis/urlcrazy.md)
 - **IDS/IPS Identification Tools**
-  - [firewalk]()
-  - [fragrouter]()
-  - [ftest]()
-  - [lbd]()
-  - [wafw00f]()
+  - [firewalk](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/IDS_IPS_Identification/firewalk.md)
+  - [fragrouter](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/IDS_IPS_Identification/fragrouter.md)
+  - [ftest](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/IDS_IPS_Identification/ftest.md)
+  - [lbd](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/IDS_IPS_Identification/lbd.md)
+  - [wafw00f](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/IDS_IPS_Identification/wafw00f.md)
 - **Live Host Identification Tools**
   - [arping]()
   - [fping]()
