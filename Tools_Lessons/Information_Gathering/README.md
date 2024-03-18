@@ -23,3 +23,5 @@
   - netcat
   - thcping6
   - unicornscan 
+- Network & Port Scanner
+  - nmap
