@@ -209,7 +209,7 @@
   - https://omnisint.io/subdomain-enumeration
   - https://riddler.io/
   - https://www.robtex.com/
-  - https://centralops.net/co/Domain Dossier.aspx
+  - https://centralops.net/co/DomainDossier.aspx
   - https://www.domainiq.com/
   - https://whois.domaintools.com/
   - https://shorteners.grayhatwarfare.com/domains
