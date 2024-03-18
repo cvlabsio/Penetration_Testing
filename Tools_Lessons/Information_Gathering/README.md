@@ -1,6 +1,6 @@
 ## Information Gathering Tools are-
 
-- DNS Analysis Tools
+- **DNS Analysis Tools**
   - dnsenum
   - dnsmap
   - dnsrecon
