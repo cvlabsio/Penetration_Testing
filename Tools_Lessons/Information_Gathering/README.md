@@ -39,3 +39,7 @@
   - irpas-cdp
   - netdiscover
   - netmask
+- **SMB Analysis**
+  - enum4linux
+  - nbtscan
+  - smbmap
