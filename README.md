@@ -5,35 +5,35 @@ Welcome to the Penetration Testing Full Course repository! Here, you'll find com
 ## Course Overview
 Here's the list with only the main division "Penetration Testing" mentioned:
 
-- Network Penetration Testing: Learn to assess network infrastructure security and exploit vulnerabilities.
-- Web Application Penetration Testing: Explore techniques to evaluate and secure web applications.
-- Mobile Application Penetration Testing: Understand mobile app security on iOS and Android platforms.
-- Wireless Network Penetration Testing: Delve into Wi-Fi and Bluetooth security assessments.
-- Social Engineering Penetration Testing: Master the art of manipulating individuals to compromise security.
-- Cloud Penetration Testing: Explore security assessments for cloud-based infrastructure and services.
-- IoT Penetration Testing: Learn to assess security in the Internet of Things ecosystem.
-- Industrial Control Systems (ICS) Penetration Testing: Understand critical infrastructure security assessments.
-- Database Penetration Testing: Explore techniques to assess and secure databases.
-- VoIP (Voice over Internet Protocol) Penetration Testing: Assess and secure voice communication systems.
-- Cryptographic Penetration Testing: Explore cryptographic implementations and protocols.
-- Container Penetration Testing: Understand security assessments for containerized environments.
-- Blockchain Penetration Testing: Assess security in blockchain networks and decentralized applications.
-- Firmware Reverse Engineering: Learn to analyze and assess firmware security.
-- Social Media Penetration Testing: Explore security assessments for social media platforms.
-- Supply Chain Penetration Testing: Understand security assessments for third-party vendors and partners.
-- Incident Response Testing: Master incident response procedures and capabilities assessment.
-- SCADA (Supervisory Control and Data Acquisition) Systems Penetration Testing: Understand critical infrastructure security assessments.
-- Satellite Communication Penetration Testing: Explore security assessments for satellite communication systems.
-- Automotive Penetration Testing: Assess security in-vehicle systems.
-- Aviation and Aerospace Penetration Testing: Understand security assessments for aviation and aerospace systems.
-- Medical Device Penetration Testing: Explore security assessments for medical devices.
-- Virtual Reality (VR) and Augmented Reality (AR) Penetration Testing: Assess security in VR/AR systems.
-- Artificial Intelligence (AI) and Machine Learning (ML) Penetration Testing: Explore security assessments for AI/ML systems.
-- Blockchain-Based Smart Contracts Auditing: Understand security assessments for blockchain smart contracts.
-- Embedded Systems Penetration Testing: Explore security assessments for embedded devices.
-- Smart Grid Penetration Testing: Understand security assessments for smart grid technologies.
-- API Security Testing: Explore security assessments for application programming interfaces (APIs).
-- Open Source Intelligence (OSINT) Penetration Testing: Learn techniques for gathering and analyzing publicly available information.
+- Network Penetration Testing
+- Web Application Penetration Testing
+- Mobile Application Penetration Testing
+- Wireless Network Penetration Testing
+- Social Engineering Penetration Testing
+- Cloud Penetration Testing
+- IoT Penetration Testing
+- Industrial Control Systems (ICS) Penetration Testing
+- Database Penetration Testing
+- VoIP (Voice over Internet Protocol) Penetration Testing
+- Cryptographic Penetration Testing
+- Container Penetration Testing
+- Blockchain Penetration Testing
+- Firmware Reverse Engineering
+- Social Media Penetration Testing
+- Supply Chain Penetration Testing
+- Incident Response Testing
+- SCADA (Supervisory Control and Data Acquisition) Systems Penetration Testing
+- Satellite Communication Penetration Testing
+- Automotive Penetration Testing
+- Aviation and Aerospace Penetration Testing
+- Medical Device Penetration Testing
+- Virtual Reality (VR) and Augmented Reality (AR) Penetration Testing
+- Artificial Intelligence (AI) and Machine Learning (ML) Penetration Testing
+- Blockchain-Based Smart Contracts Auditing
+- Embedded Systems Penetration Testing
+- Smart Grid Penetration Testing
+- API Security Testing
+- Open Source Intelligence (OSINT) Penetration Testing
 
 ## Let's Secure the Digital World Together!
 
