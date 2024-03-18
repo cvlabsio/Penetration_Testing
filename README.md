@@ -2,6 +2,25 @@
 
 Welcome to the Penetration Testing Full Course repository! Here, you'll find comprehensive materials covering a wide range of penetration testing topics. From understanding the fundamentals to mastering advanced techniques, this course aims to equip you with the knowledge and skills needed to become a proficient penetration tester.
 
+## First learn this tools then speciliaze in one domain of ** Penetration Testing ** mentioned below:
+
+### Tools Lists:
+- Information Gathering
+- Vulnerability Analysis
+- Web Application Analysis
+- Database Assessment
+- Password Attack
+- Wireless Attack
+- Reverse Engineering
+- Exploitation Tools
+- Sniffing & Spoofing
+- Post Exploitation
+- Forensics
+- Reporting Tools
+- Social Engineering Tools
+- System Services
+
+
 ## Specialization Fields
 Here's the list with only the main division "Penetration Testing" mentioned:
 
