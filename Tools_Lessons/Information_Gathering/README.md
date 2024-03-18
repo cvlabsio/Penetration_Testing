@@ -67,8 +67,8 @@
 
 - **Information Collecting Sites**
   - shodan.io
-https://leakix.net
-zoomeye.org
+  - https://leakix.net
+  - zoomeye.org
 censys
 virustotal
 greynoise
