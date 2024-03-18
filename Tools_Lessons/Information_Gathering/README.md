@@ -164,7 +164,8 @@
   - https://searchcode.com/
   - https://www.nerdydata.com/
   - http://codefinder.org/
-  - https://about.sourcegraph.com/ https://hotexamples.com/
+  - https://about.sourcegraph.com/
+  - https://hotexamples.com/
   - https://wpdirectory.net/
   - https://gist.github.com/discover
   - https://codeberg.org/explore/repos
@@ -239,10 +240,12 @@
   - https://dnsdumpster.com/
   - https://chaos.projectdiscovery.io/#/
   - https://rapiddns.io/
-  - https://docs.farsightsecurity.com/#dnsdb https://passivedns.mnemonic.no/
+  - https://docs.farsightsecurity.com/#dnsdb
+  - https://passivedns.mnemonic.no/
   - http://ptrarchive.com/
   - http://dnshistory.org/
-  - https://dnstwister.report/ https://dnsviz.net/
+  - https://dnstwister.report/
+  - https://dnsviz.net/
   - https://dnslytics.com/
   - https://dnsrepo.noc.org/
   - https://dnsspy.io/
@@ -259,7 +262,8 @@
   - https://tls.bufferover.run/
   - https://sslmate.com/certspotter/
   - https://search.censys.io/certificates
-  - https://ciphersuite.info/ https://certificatedetails.com/
+  - https://ciphersuite.info/
+  - https://certificatedetails.com/
   - https://developers.facebook.com/tools/ct/search/
   - https://certs.io/
   - https://wigle.net/
@@ -306,7 +310,8 @@
   - https://www.tellows.com/
   - https://validnumber.com/
   - https://cellidfinder.com/
-  - https://exposed.vc/ https://ddosecrets.com/
+  - https://exposed.vc/
+  - https://ddosecrets.com/
   - https://haveibeenzuckered.com/
   - https://cryptome.org/
   - https://ahmia.fi/
