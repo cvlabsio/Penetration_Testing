@@ -111,7 +111,7 @@
   - https://avd.aquasec.com/
   - https://vuldb.com/
   - https://in.scanfactory.io/cvemon.html
-  - WIGLE
+  - https://www.wigle.net/
   - https://publicwww.com/
   - https://www.zerodayinitiative.com/advisories/published/
   - https://bugs.chromium.org/p/project-zero/issues/list?can=1&q=&sort=-id&colspec=ID%20Type%20Status%20Priority%20Milestone%20Owner%20Summary
