@@ -66,14 +66,14 @@
 
 
 - **Information Collecting Sites**
-  - shodan.io
+  - [shodan](https://www.shodan.io/)
   - https://leakix.net
   - zoomeye.org
-censys
-virustotal
-greynoise
-securitytrails
-binaryedge
+  - censys
+  - virustotal
+  - greynoise
+  - securitytrails
+  - binaryedge
 threatcrowd
 github
 hunter
