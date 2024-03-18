@@ -46,3 +46,7 @@
 - **SMTP Analysis**
   - smtp-user-enum
   - swaks
+- **SNMP Analysis**
+  - braa
+  - onesixtyone
+  - snmp-check
