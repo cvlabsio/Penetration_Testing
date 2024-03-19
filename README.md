@@ -2,7 +2,7 @@
 
 Welcome to the Penetration Testing Full Course repository! Here, you'll find comprehensive materials covering various penetration testing topics. From understanding the fundamentals to mastering advanced techniques, this course will equip you with the knowledge and skills needed to become a proficient penetration tester.
 
-## First learn these tools then specialize in one domain of ** Penetration Testing ** mentioned below:
+## First learn these tools then specialize in one domain of **Penetration Testing** mentioned below:
 
 ### Tools Lists:
 - [Information Gathering](https://github.com/saidehossain/Penetration_Testing/tree/main/Tools_Lessons/Information_Gathering)
@@ -15,7 +15,7 @@ Welcome to the Penetration Testing Full Course repository! Here, you'll find com
 - [Exploitation Tools](https://github.com/saidehossain/Penetration_Testing/tree/main/Tools_Lessons/Exploitation_Tools)
 - [Sniffing & Spoofing](https://github.com/saidehossain/Penetration_Testing/tree/main/Tools_Lessons/Sniffing%26Spoofing)
 - [Post Exploitation](https://github.com/saidehossain/Penetration_Testing/tree/main/Tools_Lessons/Post_Exploitation)
-- [Forensics]()
+- [Forensics](https://github.com/saidehossain/Penetration_Testing/tree/main/Tools_Lessons/Forensics.md)
 - [Reporting Tools]()
 - [Social Engineering Tools]()
 - [System Services]()
