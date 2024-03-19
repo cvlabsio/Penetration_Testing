@@ -1,4 +1,4 @@
-## Free resource provided sites
+## Free resource providing sites
 
 - [Youtube](https://www.youtube.com/)
 - [Coursera](https://www.coursera.org/)
