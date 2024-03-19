@@ -146,3 +146,6 @@ dnsenum -o output.xml example.com
 ```
 This command outputs results in XML format, suitable for import into tools like MagicTree, during DNS enumeration for the domain "example.com".
 
+
+## Recomendation:
+- Always run with --noreverse   it will save your time. Because reverselookup take too much time
