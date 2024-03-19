@@ -19,9 +19,7 @@ Welcome to the Penetration Testing Full Course repository! Here, you'll find com
 - [Reporting Tools](https://github.com/saidehossain/Penetration_Testing/tree/main/Tools_Lessons/Reporting_Tools)
 - [Social Engineering Tools](https://github.com/saidehossain/Penetration_Testing/tree/main/Tools_Lessons/Social_Engineering_Tools)
 - [System Services](https://github.com/saidehossain/Penetration_Testing/tree/main/Tools_Lessons/system_services)
-- Cli Tools
-  - curl
-  - gobuster
+- [Cli Tools](https://github.com/saidehossain/Penetration_Testing/tree/main/Tools_Lessons/Cli_Tools)
     
 
 
