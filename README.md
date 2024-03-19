@@ -1,6 +1,8 @@
 # Penetration Testing (Full Course)
 
 Welcome to the Penetration Testing Full Course repository! Here, you'll find comprehensive materials covering various penetration testing topics. From understanding the fundamentals to mastering advanced techniques, this course will equip you with the knowledge and skills needed to become a proficient penetration tester.
+## Before learning any hacking tools learn about Networking:
+- 
 
 ## First learn these tools then specialize in one domain of **Penetration Testing** mentioned below:
 
