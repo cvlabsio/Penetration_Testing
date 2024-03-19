@@ -13,7 +13,7 @@ Welcome to the Penetration Testing Full Course repository! Here, you'll find com
 - [Wireless Attack](https://github.com/saidehossain/Penetration_Testing/tree/main/Tools_Lessons/Wireless_Attacks)
 - [Reverse Engineering](https://github.com/saidehossain/Penetration_Testing/tree/main/Tools_Lessons/Reverse_Engineering)
 - [Exploitation Tools](https://github.com/saidehossain/Penetration_Testing/tree/main/Tools_Lessons/Exploitation_Tools)
-- [Sniffing & Spoofing]()
+- [Sniffing & Spoofing](https://github.com/saidehossain/Penetration_Testing/tree/main/Tools_Lessons/Sniffing%26Spoofing)
 - [Post Exploitation]()
 - [Forensics]()
 - [Reporting Tools]()
