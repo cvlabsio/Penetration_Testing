@@ -35,7 +35,7 @@ DNS enumeration, a crucial phase in reconnaissance during penetration testing, i
 ### 6. Output Options:
    - `-o, --output <file>`: Output in XML format, suitable for import into tools like MagicTree.
 
-Apologies for the misunderstanding. Let's go through examples using each option of DNSenum one by one:
+Let's go through examples using each option of DNSenum one by one:
 
 ### 1. `--dnsserver <server>`:
 ```bash
