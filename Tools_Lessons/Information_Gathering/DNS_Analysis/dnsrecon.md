@@ -12,7 +12,7 @@
 **Usage:**
 
 ```bash
-dnsrecon [options] <target domain>
+dnsrecon [options] -d <target domain>
 ```
 
 **Options:**
@@ -34,7 +34,7 @@ dnsrecon [options] <target domain>
 1. **Standard Record Enumeration:**
 
    ```bash
-   dnsrecon example.com
+   dnsrecon -d example.com
    ```
 
    This enumerates common DNS records for `example.com`.
@@ -42,7 +42,7 @@ dnsrecon [options] <target domain>
 2. **Brute-Force Subdomain Enumeration (Using Default Wordlist):**
 
    ```bash
-   dnsrecon -D example.com
+   dnsrecon -D -d example.com
    ```
 
    This attempts to brute-force subdomains of `example.com` using the built-in wordlist.
@@ -58,7 +58,7 @@ dnsrecon [options] <target domain>
 4. **Saving Results in JSON Format:**
 
    ```bash
-   dnsrecon -j target.com > results.json
+   dnsrecon -j -d target.com > results.json
    ```
 
    This enumerates DNS records for `target.com` and saves the results in JSON format to the file `results.json`.
@@ -66,7 +66,7 @@ dnsrecon [options] <target domain>
 5. **Zone Transfer Attempt (Use with Caution):**
 
    ```bash
-   dnsrecon -s vulnerabledomain.com
+   dnsrecon -s -d vulnerabledomain.com
    ```
 
    This attempts a zone transfer for `vulnerabledomain.com`. **Remember, zone transfers can be intrusive.**
