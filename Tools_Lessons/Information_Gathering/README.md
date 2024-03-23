@@ -2,14 +2,7 @@
 
 - **DNS Analysis Tools**
   - [dnsenum](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/DNS_Analysis/dnsenum.md)
-  - [dnsmap](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/DNS_Analysis/dnsmap.md)
-  - [dnsrecon](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/DNS_Analysis/dnsrecon.md)
-  - [dnstracer](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/DNS_Analysis/dnstracer.md)
-  - [dnswalk](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/DNS_Analysis/dnswalk.md)
-  - [fierce](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/DNS_Analysis/fierce.md)
-  - [urlcrazy](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/DNS_Analysis/urlcrazy.md)
 - **IDS/IPS Identification Tools**
-  - [firewalk](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/IDS_IPS_Identification/firewalk.md)
   - [fragrouter](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/IDS_IPS_Identification/fragrouter.md)
   - [ftest](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/IDS_IPS_Identification/ftest.md)
   - [lbd](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/IDS_IPS_Identification/lbd.md)
