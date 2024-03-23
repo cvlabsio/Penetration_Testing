@@ -3,8 +3,6 @@
 - **DNS Analysis Tools**
   - [dnsenum](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/DNS_Analysis/dnsenum.md)
 - **IDS/IPS Identification Tools**
-  - [fragrouter](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/IDS_IPS_Identification/fragrouter.md)
-  - [ftest](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/IDS_IPS_Identification/ftest.md)
   - [lbd](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/IDS_IPS_Identification/lbd.md)
   - [wafw00f](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/IDS_IPS_Identification/wafw00f.md)
 - **Live Host Identification Tools**
