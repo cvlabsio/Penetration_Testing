@@ -1,14 +1,3 @@
-**dnsrecon** is a powerful DNS reconnaissance tool that aids security professionals in gathering detailed information about a target domain's DNS records. It offers a wide range of functionalities, including:
-
-- **Standard Record Enumeration:** Enumerates common DNS records like A (address), MX (mail exchange), NS (nameserver), SOA (Start of Authority), AAAA (IPv6 address), SPF (Sender Policy Framework), and TXT (text) records.
-- **Zone Transfer:** Attempts zone transfers to retrieve the entire DNS zone file (if permitted by the server configuration). **Be cautious** as zone transfers can be intrusive and might violate some DNS server policies.
-- **Wildcard Resolution:** Checks if the target domain has wildcard DNS records that can resolve any subdomain.
-- **SRV Record Enumeration:** Discovers Service Location records (SRV) used by specific services like SIP.
-- **Top-Level Domain (TLD) Expansion:** Attempts to find subdomains using various TLDs (e.g., .com, .net, .org).
-- **Brute-Force Subdomain Enumeration:** Uses a wordlist to brute-force potential subdomains of the target domain.
-- **PTR Record Lookup:** Performs reverse DNS lookups to map IP addresses to hostnames (given an IP range or CIDR notation).
-- **DNS Cache Snooping:** Queries nameservers for cached records of the target domain (experimental feature).
-
 **Usage:**
 
 ```bash
