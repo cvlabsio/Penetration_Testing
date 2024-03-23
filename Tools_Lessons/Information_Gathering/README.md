@@ -4,7 +4,6 @@
   - [dnsenum](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/DNS_Analysis/dnsenum.md)
 - **IDS/IPS Identification Tools**
   - [lbd](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/IDS_IPS_Identification/lbd.md)
-  - [wafw00f](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/IDS_IPS_Identification/wafw00f.md)
 - **Live Host Identification Tools**
   - [arping](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/Live_Host_Identification/arping.md)
   - [fping](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/Live_Host_Identification/fping.md)
