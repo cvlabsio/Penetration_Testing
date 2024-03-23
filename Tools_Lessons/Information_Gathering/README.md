@@ -5,8 +5,6 @@
 - **IDS/IPS Identification Tools**
   - [lbd](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/IDS_IPS_Identification/lbd.md)
 - **Live Host Identification Tools**
-  - [arping](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/Live_Host_Identification/arping.md)
-  - [fping](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/Live_Host_Identification/fping.md)
   - [hping3](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/Live_Host_Identification/hping3.md)
   - [masscan](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/Live_Host_Identification/masscan.md)
   - [ncat](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/Live_Host_Identification/ncat.md)
