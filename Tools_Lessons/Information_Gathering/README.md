@@ -433,5 +433,6 @@
   - https://www.wappalyzer.com/
   - https://dns.bufferover.run/
   - https://netograph.io/
+  - http://searchdns.netcraft.com/
  
     
