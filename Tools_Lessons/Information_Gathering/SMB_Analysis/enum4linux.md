@@ -73,7 +73,7 @@ enum4linux <target_ip>
 - `-h`: Display help message and exit.
     - Example: `enum4linux -h`
 
-### Example:
+### More Example:
 ```bash
 enum4linux -a 192.168.1.100
 ```
@@ -199,34 +199,32 @@ enum4linux -o <target_ip>
 enum4linux -i <target_ip>
 ```
 
-10. **Specify Workgroup Manually:**
+23. **Specify Workgroup Manually:**
 ```bash
 enum4linux -w <workgroup> <target_ip>
 ```
 
-11. **Do an Nmblookup (Similar to Nbtstat):**
+24. **Do an Nmblookup (Similar to Nbtstat):**
 ```bash
 enum4linux -n <target_ip>
 ```
 
-12. **Verbose Mode (Shows Full Commands Being Run):**
+25. **Verbose Mode (Shows Full Commands Being Run):**
 ```bash
 enum4linux -v <target_ip>
 ```
 
-13. **Aggressive Mode (Do Write Checks on Shares, etc.):**
+26. **Aggressive Mode (Do Write Checks on Shares, etc.):**
 ```bash
 enum4linux -A <target_ip>
 ```
 
-14. **Do All Simple Enumeration:**
+27. **Do All Simple Enumeration:**
 ```bash
 enum4linux -a <target_ip>
 ```
 
-15. **Display Help Message and Exit:**
+28. **Display Help Message and Exit:**
 ```bash
 enum4linux -h
 ```
-
-These examples cover various scenarios where enum4linux can be used to gather information from Windows and Samba systems on a network. Adjust the options based on your specific requirements and target environment.
