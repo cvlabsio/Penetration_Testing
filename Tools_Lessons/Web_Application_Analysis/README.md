@@ -13,3 +13,5 @@
 - [Skipfish](https://github.com/pentesterhubcommunity/Penetration_Testing/blob/main/Tools_Lessons/Web_Application_Analysis/Web_Vulnerability_Scanner/skipfish.md)
 - [Wapiti](https://github.com/pentesterhubcommunity/Penetration_Testing/blob/main/Tools_Lessons/Web_Application_Analysis/Web_Vulnerability_Scanner/wapiti.md)
 - [Whatweb](https://github.com/pentesterhubcommunity/Penetration_Testing/blob/main/Tools_Lessons/Web_Application_Analysis/Web_Vulnerability_Scanner/whatweb.md)
+- [Xsser](https://github.com/pentesterhubcommunity/Penetration_Testing/blob/main/Tools_Lessons/Web_Application_Analysis/Web_Vulnerability_Scanner/xsser.md)
+- [Httrack](https://github.com/pentesterhubcommunity/Penetration_Testing/blob/main/Tools_Lessons/Web_Application_Analysis/Web_Vulnerability_Scanner/httrack.md)
