@@ -67,3 +67,61 @@
     ```bash
     joomscan --version
     ```
+    
+11. **Scanning with Custom Headers**:
+   - You can include custom headers in your requests using the `-H` option. For example, to include a custom header `X-My-Header: Value`:
+
+    ```bash
+    joomscan --url http://example.com -H "X-My-Header: Value"
+    ```
+
+12. **Enumerating Plugins**:
+   - To enumerate plugins installed on the Joomla website, you can use the `--enumerate-plugins` or `-ep` option:
+
+    ```bash
+    joomscan --url http://example.com --enumerate-plugins
+    ```
+
+13. **Setting Request Timeout**:
+   - You can specify the request timeout in seconds using the `--timeout` option. For example, to set the timeout to 60 seconds:
+
+    ```bash
+    joomscan --url http://example.com --timeout 60
+    ```
+
+14. **Using SOCKS Proxy**:
+   - If you want to use a SOCKS proxy to connect to the target URL, you can specify it using the `--proxy` option with the `socks://` prefix:
+
+    ```bash
+    joomscan --url http://example.com --proxy socks://127.0.0.1:414
+    ```
+
+15. **Displaying Version Information Only**:
+   - You can output only the version information of joomscan using the `--version` option:
+
+    ```bash
+    joomscan --version
+    ```
+
+16. **Scanning HTTPS Site with Custom Port**:
+   - If the Joomla website is hosted on HTTPS and uses a custom port (e.g., 8443), you can specify the URL with the port using the `--url` option:
+
+    ```bash
+    joomscan --url https://example.com:8443
+    ```
+
+17. **Scanning Multiple URLs**:
+   - You can scan multiple Joomla URLs by providing them in a file and using the `-L` option:
+
+    ```bash
+    joomscan -L urls.txt
+    ```
+
+    - The `urls.txt` file should contain one URL per line.
+
+18. **Displaying Help Information Verbosely**:
+   - You can display detailed help information using the `--help` option:
+
+    ```bash
+    joomscan --help
+    ```
