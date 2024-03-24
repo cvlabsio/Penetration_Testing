@@ -21,9 +21,7 @@
 - **Other Tools**
   - [amass](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/amass.md)
   - [dimitry](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/dimitry.md)
-  - [ike-scan](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/ike-scan.md)
   - [legion](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/legion.md)
-  - [p0f](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/p0f.md)
   - [recon-ng](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/recon-ng.md)
 
 
