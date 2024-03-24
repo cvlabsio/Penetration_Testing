@@ -17,7 +17,6 @@
   - [theHarvester](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/OSINT/theHarvester.md)
 - **SMB Analysis**
   - [enum4linux](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/SMB_Analysis/enum4linux.md)
-  - [nbtscan](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/SMB_Analysis/nbtscan.md)
   - [smbmap](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/SMB_Analysis/smbmap.md)
 - **SMTP Analysis**
   - [smtp-user-enum](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/SMTP_Analysis/smtp-user-enum.md)
