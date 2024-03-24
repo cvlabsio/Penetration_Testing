@@ -7,3 +7,4 @@
 - [FFUF](https://github.com/pentesterhubcommunity/Penetration_Testing/blob/main/Tools_Lessons/Web_Application_Analysis/Web_crawlers%26Directory_Bruteforce.md/ffuf.md)
 - [Gobuster](https://github.com/pentesterhubcommunity/Penetration_Testing/blob/main/Tools_Lessons/Web_Application_Analysis/Web_crawlers&Directory_Bruteforce.md/gobuster.md)
 - [Wfuzz](https://github.com/pentesterhubcommunity/Penetration_Testing/blob/main/Tools_Lessons/Web_Application_Analysis/Web_crawlers&Directory_Bruteforce.md/wfuzz.md)
+- [Heartleech](https://github.com/pentesterhubcommunity/Penetration_Testing/blob/main/Tools_Lessons/Web_Application_Analysis/Web_Vulnerability_Scanner/heartleech.md)
