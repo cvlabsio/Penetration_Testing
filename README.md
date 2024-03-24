@@ -29,7 +29,7 @@ Welcome to the Penetration Testing Full Course repository! Here, you'll find com
 ## Specialization Fields
 Here's the list with only the main division "Penetration Testing" mentioned:
 
-- [Network Penetration Testing]()
+- [Network Penetration Testing](https://github.com/pentesterhubcommunity/Penetration_Testing/tree/main/Specialization_Fields/Network%20Penetration%20Testing)
 - [Web Application Penetration Testing]()
 - [Mobile Application Penetration Testing]()
 - [Wireless Network Penetration Testing]()
