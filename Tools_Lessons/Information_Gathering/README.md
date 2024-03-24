@@ -18,9 +18,6 @@
 - **SMB Analysis**
   - [enum4linux](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/SMB_Analysis/enum4linux.md)
   - [smbmap](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/SMB_Analysis/smbmap.md)
-- **SMTP Analysis**
-  - [smtp-user-enum](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/SMTP_Analysis/smtp-user-enum.md)
-  - [swaks](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/SMTP_Analysis/swaks.md)
 - **SNMP Analysis**
   - [braa](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/SNMP_Analysis/braa.md)
   - [onesixtyone](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/SNMP_Analysis/onesixtyone.md)
