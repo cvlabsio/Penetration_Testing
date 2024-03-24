@@ -11,3 +11,4 @@
 - [Padbuster](https://github.com/pentesterhubcommunity/Penetration_Testing/tree/main/Tools_Lessons/Web_Application_Analysis/Web_Vulnerability_Scanner)
 - [Parsero](https://github.com/pentesterhubcommunity/Penetration_Testing/blob/main/Tools_Lessons/Web_Application_Analysis/Web_Vulnerability_Scanner/parsero.md)
 - [Skipfish](https://github.com/pentesterhubcommunity/Penetration_Testing/blob/main/Tools_Lessons/Web_Application_Analysis/Web_Vulnerability_Scanner/skipfish.md)
+- [Wapiti](https://github.com/pentesterhubcommunity/Penetration_Testing/blob/main/Tools_Lessons/Web_Application_Analysis/Web_Vulnerability_Scanner/wapiti.md)
