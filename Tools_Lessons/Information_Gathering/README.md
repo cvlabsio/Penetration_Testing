@@ -23,6 +23,7 @@
   - [dimitry](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/dimitry.md)
   - [legion](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/legion.md)
   - [recon-ng](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/recon-ng.md)
+  - [osing_framework](https://osintframework.com/)
 
 
 - **Information Collecting Sites**
