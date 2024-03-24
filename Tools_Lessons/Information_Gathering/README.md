@@ -9,8 +9,6 @@
   - [masscan](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/Live_Host_Identification/masscan.md)
   - [ncat](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/Live_Host_Identification/ncat.md)
   - [netcat](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/Live_Host_Identification/netcat.md)
-  - [thcping6](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/Live_Host_Identification/thcping6.md)
-  - [unicornscan](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/Live_Host_Identification/unicornscan.md) 
 - **Network & Port Scanner**
   - [nmap](https://github.com/saidehossain/Penetration_Testing/blob/main/Tools_Lessons/Information_Gathering/Network%26Port_Scanner/nmap.md)
 - **OSINT**
